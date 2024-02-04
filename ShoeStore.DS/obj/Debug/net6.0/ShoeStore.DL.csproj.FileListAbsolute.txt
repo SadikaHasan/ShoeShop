@@ -1,0 +1,16 @@
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\bin\Debug\net6.0\ShoeStore.DL.deps.json
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\bin\Debug\net6.0\ShoeStore.DL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\bin\Debug\net6.0\ShoeStore.DL.pdb
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\bin\Debug\net6.0\ShoeStore.Models.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\bin\Debug\net6.0\ShoeStore.Models.pdb
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.csproj.AssemblyReference.cache
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.AssemblyInfoInputs.cache
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.AssemblyInfo.cs
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.sourcelink.json
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.csproj.CopyComplete
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\refint\ShoeStore.DL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ShoeStore.DL.pdb
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.DS\obj\Debug\net6.0\ref\ShoeStore.DL.dll

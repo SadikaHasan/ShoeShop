@@ -1,0 +1,12 @@
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\bin\Debug\net6.0\ShoeStore.SL.deps.json
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\bin\Debug\net6.0\ShoeStore.SL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\bin\Debug\net6.0\ShoeStore.SL.pdb
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.AssemblyInfoInputs.cache
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.AssemblyInfo.cs
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.csproj.CoreCompileInputs.cache
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.sourcelink.json
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\refint\ShoeStore.SL.dll
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ShoeStore.SL.pdb
+C:\Users\Radko\Source\Repos\Seters\ShoeStore.SL\obj\Debug\net6.0\ref\ShoeStore.SL.dll

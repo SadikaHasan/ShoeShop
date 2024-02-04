@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gc9yP02663j6ZlKb4C5Z99v9GDQkIDt1OO9z+f0xVTviJVtJYELRa4nc+MTvBaCnl2b+EL9bGaa/BnuSzfiSHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\ShoeStore\\ShoeStore\\ShoeStore.SL\\ShoeStore.SL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

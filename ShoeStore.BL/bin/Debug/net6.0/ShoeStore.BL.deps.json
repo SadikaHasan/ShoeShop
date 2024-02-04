@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShoeStore.BL/1.0.0": {
+        "dependencies": {
+          "ShoeStore.DL": "1.0.0",
+          "ShoeStore.Models": "1.0.0"
+        },
+        "runtime": {
+          "ShoeStore.BL.dll": {}
+        }
+      },
+      "ShoeStore.DL/1.0.0": {
+        "dependencies": {
+          "ShoeStore.Models": "1.0.0"
+        },
+        "runtime": {
+          "ShoeStore.DL.dll": {}
+        }
+      },
+      "ShoeStore.Models/1.0.0": {
+        "runtime": {
+          "ShoeStore.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoeStore.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoeStore.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoeStore.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
