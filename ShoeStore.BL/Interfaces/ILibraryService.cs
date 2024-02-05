@@ -15,5 +15,6 @@ namespace ShoeStore.BL.Interfaces
             GetAllShoesByBrandRequest request);
 
         int CheckShoeCount(int input);
+        GetAllShoesByBrandResponse? GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request);
     }
 }

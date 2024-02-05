@@ -44,5 +44,20 @@ namespace ShoeStore.BL.Services
             };
             return response;
         }
+
+        int ILibraryService.CheckShoeCount(int input)
+        {
+            throw new NotImplementedException();
+        }
+
+        GetAllShoesByBrandResponse? ILibraryService.GetAllByBrandsAfterReleaseDate(GetAllShoesByBrandRequest request)
+        {
+            throw new NotImplementedException();
+        }
+
+        GetAllShoesByBrandResponse? ILibraryService.GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

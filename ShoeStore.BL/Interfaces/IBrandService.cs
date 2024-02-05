@@ -16,5 +16,7 @@ namespace ShoeStore.BL.Interfaces
         void AddBrand(Brand brand);
 
         void RemoveBrand(int Id);
+        Brand GetBrand();
+        void AddBrand();
     }
 }

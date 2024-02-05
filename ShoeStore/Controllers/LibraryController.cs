@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ShoeStore.BL.Interfaces;
+using ShoeStore.Models.Requests;
+using ShoeStore.Models.Responses;
 
 namespace ShoeStore.Controllers
 {

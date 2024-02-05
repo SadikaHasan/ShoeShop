@@ -16,5 +16,6 @@ namespace ShoeStore.BL.Interfaces
         GetAllByBrandsAfterReleaseDate(
             int brandId,
             DateTime afterDate);
+        Shoe GetShoe();
     }
 }

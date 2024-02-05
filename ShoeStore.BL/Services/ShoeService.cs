@@ -56,6 +56,36 @@ namespace ShoeStore.BL.Services
         {
             throw new NotImplementedException();
         }
+
+        List<Shoe> IShoeService.GetAllShoes()
+        {
+            throw new NotImplementedException();
+        }
+
+        Shoe IShoeService.GetShoe(int Id)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IShoeService.AddShoe(Shoe shoe)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IShoeService.RemoveShoe(int Id)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<Shoe> IShoeService.GetAllByBrandsAfterReleaseDate(int brandId, DateTime afterDate)
+        {
+            throw new NotImplementedException();
+        }
+
+        Shoe IShoeService.GetShoe()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

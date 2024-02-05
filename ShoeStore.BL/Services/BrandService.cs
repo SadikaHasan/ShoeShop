@@ -38,5 +38,35 @@ namespace ShoeStore.BL.Services
         {
             _brandRepository.RemoveBrand(brand);
         }
+
+        List<Brand> IBrandService.GetAllBrands()
+        {
+            throw new NotImplementedException();
+        }
+
+        Brand IBrandService.GetBrand(int Id)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IBrandService.AddBrand(Brand brand)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IBrandService.RemoveBrand(int Id)
+        {
+            throw new NotImplementedException();
+        }
+
+        Brand IBrandService.GetBrand()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IBrandService.AddBrand()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

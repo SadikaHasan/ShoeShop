@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using ShoeStore.Models.Requests;
 using System.Data;
 
 namespace ShoeStore.Validators
