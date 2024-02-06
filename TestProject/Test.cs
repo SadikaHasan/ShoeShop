@@ -70,7 +70,7 @@ namespace TestProject
 
                 var shoeService()= new ShoeService(mockedShoeRepository.Objects);
                 var brandService()= new BrandService(new BrandRepository());
-                var service()= new LibraryService(shoeService, brandService);
+                var service()= new StoreService(shoeService, brandService);
 
                 var result = service.ChectCountOfShoes(input);
 
@@ -78,6 +78,8 @@ namespace TestProject
         }
 
         
+
+
     }
 
     

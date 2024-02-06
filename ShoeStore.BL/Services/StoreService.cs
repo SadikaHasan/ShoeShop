@@ -9,12 +9,12 @@ using System.Threading.Tasks;
 
 namespace ShoeStore.BL.Services
 {
-    public class LibraryService : ILibraryService
+    public class StoreService : IStoreService
     {
         private readonly IBrandService _brandService;
         private readonly IShoeService _shoeService;
 
-        public LibraryService(
+        public StoreService(
            IBrandService brandService,
            IShoeService shoeService)
         {
@@ -22,7 +22,7 @@ namespace ShoeStore.BL.Services
             _shoeService = shoeService;
         }
 
-        public LibraryService(Func<object> shoeService, Func<object> brandService)
+        public StoreService(Func<object> shoeService, Func<object> brandService)
         {
         }
 
@@ -49,17 +49,17 @@ namespace ShoeStore.BL.Services
             return response;
         }
 
-        int ILibraryService.CheckShoeCount(int input)
+        int IStoreService.CheckShoeCount(int input)
         {
             throw new NotImplementedException();
         }
 
-        GetAllShoesByBrandResponse? ILibraryService.GetAllByBrandsAfterReleaseDate(GetAllShoesByBrandRequest request)
+        GetAllShoesByBrandResponse? IStoreService.GetAllByBrandsAfterReleaseDate(GetAllShoesByBrandRequest request)
         {
             throw new NotImplementedException();
         }
 
-        GetAllShoesByBrandResponse? ILibraryService.GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request)
+        GetAllShoesByBrandResponse? IStoreService.GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request)
         {
             throw new NotImplementedException();
         }

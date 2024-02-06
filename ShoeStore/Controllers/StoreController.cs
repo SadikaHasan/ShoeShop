@@ -7,13 +7,13 @@ namespace ShoeStore.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class LibraryController : Controller
+    public class StoreController : Controller
     {
-        private readonly ILibraryService _libraryService;
+        private readonly IStoreService _storeService;
 
-        public LibraryController(ILibraryService libraryService)
+        public StoreController(IStoreService storeService)
         {
-            _libraryService = libraryService;
+            _storeService = storeService;
         }
 
         [HttpGet("GetAllShoesByBrandAndDate")]
@@ -21,7 +21,7 @@ namespace ShoeStore.Controllers
             GetAllShoesByBrandAndDate([FromBody]
              GetAllShoesByBrandRequest request)
         {
-            return _libraryService
+            return _storeService
                 .GetAllShoesByBrandAfterReleaseDate(request);
         }
 

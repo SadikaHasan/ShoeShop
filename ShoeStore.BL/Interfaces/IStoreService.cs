@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ShoeStore.BL.Interfaces
 {
-    public interface ILibraryService
+    public interface IStoreService
     {
         GetAllShoesByBrandResponse?
             GetAllByBrandsAfterReleaseDate(
