@@ -65,7 +65,7 @@ namespace TestProject
         public void ChectCountOfShoes_OK()
         {
             var input = 5;
-            var expectedCount = 3; // Changed the expected count to match the actual count of Shoes list
+            var expectedCount = 3; 
             var mockedShoeRepository = new Mock<IShoeRepository>();
             mockedShoeRepository.Setup(x => x.GetAllShoes()).Returns(Shoes);
 
@@ -73,7 +73,7 @@ namespace TestProject
             mockedBrandRepository.Setup(x => x.GetAllBrands()).Returns(BrandsData);
 
             var shoeService = new ShoeService(mockedShoeRepository.Object);
-            var brandService = new BrandService(mockedBrandRepository.Object); // Mocked BrandRepository
+            var brandService = new BrandService(mockedBrandRepository.Object); 
             var service = new StoreService(brandService, shoeService);
 
             // Act
