@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoeStore.BL", "ShoeStore.B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoeStore", "ShoeStore\ShoeStore.csproj", "{AB4C51A1-F705-4491-B7CA-EF6DB5AF5F67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{A87FCA11-7DCE-47BC-A842-DEEE7C1E3967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoeStore.Tests", "TestProject\ShoeStore.Tests.csproj", "{A87FCA11-7DCE-47BC-A842-DEEE7C1E3967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

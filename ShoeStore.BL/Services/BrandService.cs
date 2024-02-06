@@ -14,9 +14,9 @@ namespace ShoeStore.BL.Services
     {
         private readonly IBrandRepository _brandRepository;
 
-        public BrandService(IBrandService brandRepository)
+        public BrandService(IBrandRepository brandRepository)
         {
-            _brandRepository = (IBrandRepository?)brandRepository;
+            _brandRepository = brandRepository;
         }
 
         public BrandService(BrandRepository brandRepository)

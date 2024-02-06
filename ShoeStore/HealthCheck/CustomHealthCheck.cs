@@ -2,24 +2,20 @@
 
 namespace ShoeStore.HealthCheck
 {
-    public class CustomHealthCheck
+    public class CustomHealthCheck : IHealthCheck
     {
         public Task<HealthCheckResult>
-            CheckHealthAsync(
-                HealthCheckContext context,
-                CancellationToken cancellationToken = new CancellationToken())
+            CheckHealthAsync(HealthCheckContext context, CancellationToken cancellationToken = new CancellationToken())
         {
-            var isHealthy = false;
-
-            if (isHealthy)
+            try
             {
-                return Task.FromResult(
-                    HealthCheckResult.Healthy("A healthy result."));
+                return Task.FromResult(HealthCheckResult.Healthy("Ok"));
             }
+            catch (Exception)
+            {
 
-            return Task.FromResult(
-                new HealthCheckResult(
-                    context.Registration.FailureStatus, "An unhealthy result."));
+                return Task.FromResult(HealthCheckResult.Unhealthy("Not Ok"));
+            }
         }
     }
 }

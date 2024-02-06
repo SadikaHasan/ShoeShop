@@ -21,3 +21,27 @@ C:\Users\Radko\Source\Repos\Seters\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.M
 C:\Users\Radko\Source\Repos\Seters\ShoeStore.Models\obj\Debug\net6.0\refint\ShoeStore.Models.dll
 C:\Users\Radko\Source\Repos\Seters\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.pdb
 C:\Users\Radko\Source\Repos\Seters\ShoeStore.Models\obj\Debug\net6.0\ref\ShoeStore.Models.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.deps.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.AssemblyInfo.cs
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\refint\ShoeStore.Models.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore.Models\obj\Debug\net6.0\ref\ShoeStore.Models.dll
+C:\Users\User\Desktop\shoe\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.deps.json
+C:\Users\User\Desktop\shoe\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.dll
+C:\Users\User\Desktop\shoe\ShoeStore.Models\bin\Debug\net6.0\ShoeStore.Models.pdb
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.dll
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\refint\ShoeStore.Models.dll
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ShoeStore.Models.pdb
+C:\Users\User\Desktop\shoe\ShoeStore.Models\obj\Debug\net6.0\ref\ShoeStore.Models.dll

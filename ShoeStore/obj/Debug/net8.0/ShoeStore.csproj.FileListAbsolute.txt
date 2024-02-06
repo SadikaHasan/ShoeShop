@@ -6,3 +6,263 @@ C:\Users\User\Desktop\ShoeStore\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.M
 C:\Users\User\Desktop\ShoeStore\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cache
 C:\Users\User\Desktop\ShoeStore\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cs
 C:\Users\User\Desktop\ShoeStore\ShoeStore\ShoeStore\obj\Debug\net8.0\ShoeStore.sourcelink.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfo.cs
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cs
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\appsettings.Development.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\appsettings.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.staticwebassets.runtime.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.exe
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.deps.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.runtimeconfig.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.Data.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\FluentValidation.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Fractions.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Humanizer.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\IdentityModel.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\IdentityModel.OidcClient.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\KubernetesClient.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Prometheus.NetStandard.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.CodeDom.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\YamlDotNet.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.BL.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.DL.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.Models.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.BL.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.DL.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\bin\Debug\net8.0\ShoeStore.Models.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets.build.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets.development.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.ShoeStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoeStore.props
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoeStore.props
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoeStore.props
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\scopedcss\bundle\ShoeStore.styles.css
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\scopedcss\projectbundle\ShoeStore.bundle.scp.css
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.CopyComplete
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\refint\ShoeStore.dll
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.pdb
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ShoeStore.genruntimeconfig.cache
+E:\Visual Studio Projects\ShoeShop-main\ShoeStore\obj\Debug\net8.0\ref\ShoeStore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.staticwebassets.runtime.json
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.exe
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.deps.json
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.runtimeconfig.json
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.pdb
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\HealthChecks.UI.Data.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Fractions.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\IdentityModel.OidcClient.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\KubernetesClient.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Prometheus.NetStandard.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.BL.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.DL.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.Models.dll
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.BL.pdb
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.DL.pdb
+C:\Users\User\Desktop\shoe\ShoeStore\bin\Debug\net8.0\ShoeStore.Models.pdb
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.AssemblyInfo.cs
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.ShoeStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoeStore.props
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoeStore.props
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoeStore.props
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\scopedcss\bundle\ShoeStore.styles.css
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\scopedcss\projectbundle\ShoeStore.bundle.scp.css
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.csproj.CopyComplete
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\refint\ShoeStore.dll
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.pdb
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ShoeStore.genruntimeconfig.cache
+C:\Users\User\Desktop\shoe\ShoeStore\obj\Debug\net8.0\ref\ShoeStore.dll

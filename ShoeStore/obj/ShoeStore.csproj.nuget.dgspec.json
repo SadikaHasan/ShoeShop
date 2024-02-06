@@ -294,6 +294,9 @@
             "projectReferences": {
               "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.BL\\ShoeStore.BL.csproj": {
                 "projectPath": "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.BL\\ShoeStore.BL.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.DS\\ShoeStore.DL.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.DS\\ShoeStore.DL.csproj"
               }
             }
           }
@@ -316,9 +319,17 @@
               "target": "Package",
               "version": "[11.9.0, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
               "version": "[11.9.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

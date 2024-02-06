@@ -22,18 +22,18 @@ namespace ShoeStore.Controllers
         }
 
         [HttpGet("GetShoe")]
-        public Shoe GetShoe()
+        public Shoe GetShoe(int Id) // Add 'Id' parameter here
         {
-            return _shoeService.GetShoe();
+            return _shoeService.GetShoe(Id);
         }
 
-        [HttpGet("AddShoe")]
+        [HttpPost("AddShoe")] // Change to HttpPost as it's modifying data
         public void AddShoe([FromBody] Shoe shoe)
         {
-            _shoeService.GetShoe();
+            _shoeService.AddShoe(shoe);
         }
 
-        [HttpGet("RemoveShoe")]
+        [HttpDelete("RemoveShoe")] // Change to HttpDelete as it's deleting data
         public void RemoveShoe(int Id)
         {
             _shoeService.RemoveShoe(Id);

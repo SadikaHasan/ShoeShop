@@ -3,6 +3,8 @@ using ShoeStore.BL.Services;
 using ShoeStore.DL.Interfaces;
 using FluentValidation;
 using ShoeStore.HealthCheck;
+using FluentValidation.AspNetCore;
+using ShoeStore.DL.Repository;
 
 namespace ShoeStore
 {
@@ -13,16 +15,12 @@ namespace ShoeStore
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services
-                .AddSingleton<IShoeService, ShoeRepository>();
-            builder.Services
-                .AddSingleton<IShoeService, ShoeService>();
-            builder.Services
-                .AddSingleton<IBrandRepository, BrandRepository>();
-            builder.Services
-                .AddSingleton<IBrandService, BrandService>();
-            builder.Services
-                .AddSingleton<IStoreService, StoreService>();
+            builder.Services.AddSingleton<IShoeRepository, ShoeRepository>();
+            builder.Services.AddSingleton<IBrandRepository, BrandRepository>();
+
+            builder.Services.AddSingleton<IShoeService, ShoeService>();
+            builder.Services.AddSingleton<IBrandService, BrandService>();
+            builder.Services.AddSingleton<IStoreService, StoreService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -34,8 +32,10 @@ namespace ShoeStore
             builder.Services
                 .AddValidatorsFromAssemblyContaining(typeof(Program));
 
-            builder.Services.AddHealthChecks()
+            builder.Services
+                .AddHealthChecks()
                 .AddCheck<CustomHealthCheck>(nameof(CustomHealthCheck));
+
 
             var app = builder.Build();
 

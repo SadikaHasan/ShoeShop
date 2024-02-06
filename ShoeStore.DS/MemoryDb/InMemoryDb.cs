@@ -9,7 +9,7 @@ namespace ShoeStore.DL.MemoryDb
 {
     public static class InMemoryDb
     {
-        public static List<Brand> BrandsData 
+        public static List<Brand> BrandsData
             = new List<Brand>()
         {
             new Brand()
@@ -33,6 +33,7 @@ namespace ShoeStore.DL.MemoryDb
 
             },
         };
+
         public static List<Shoe> Shoes = new List<Shoe>()
         {
             new Shoe()

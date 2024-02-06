@@ -1,11 +1,6 @@
 ﻿using ShoeStore.BL.Interfaces;
 using ShoeStore.Models.Requests;
 using ShoeStore.Models.Responses;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShoeStore.BL.Services
 {
@@ -14,54 +9,33 @@ namespace ShoeStore.BL.Services
         private readonly IBrandService _brandService;
         private readonly IShoeService _shoeService;
 
-        public StoreService(
-           IBrandService brandService,
-           IShoeService shoeService)
+        public StoreService(IBrandService brandService, IShoeService shoeService)
         {
             _brandService = brandService;
             _shoeService = shoeService;
         }
 
-        public StoreService(Func<object> shoeService, Func<object> brandService)
+        public int CheckShoeCount()
         {
+            return _shoeService.GetAllShoes().Count;
         }
 
-        public int CheckShoeCount(int input)
-        {
-            if (input < 0) return 0;
-            var shoeCount = _shoeService.GetAllShoes;
-            return shoeCount.Count + input;
-        }
-
-        public GetAllShoesByBrandResponse?
-        GetAllByBrandsAfterReleaseDate(
-            GetAllShoesByBrandRequest request)
+        public GetAllShoesByBrandResponse? GetAllByBrandsAfterReleaseDate(GetAllShoesByBrandRequest request)
         {
             var response = new GetAllShoesByBrandResponse
             {
-                Brand= _brandService
-                .GetBrand(request.BrandId),
-                Shoe= _shoeService
+                Brand = _brandService.GetBrand(request.BrandId),
+                Shoe = _shoeService
                 .GetAllByBrandsAfterReleaseDate(
-                    request.BrandId,
-                    request.DateAfter)
+                                                request.BrandId, 
+                                                request.DateAfter)
             };
             return response;
         }
 
-        int IStoreService.CheckShoeCount(int input)
+        public GetAllShoesByBrandResponse? GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request)
         {
-            throw new NotImplementedException();
-        }
-
-        GetAllShoesByBrandResponse? IStoreService.GetAllByBrandsAfterReleaseDate(GetAllShoesByBrandRequest request)
-        {
-            throw new NotImplementedException();
-        }
-
-        GetAllShoesByBrandResponse? IStoreService.GetAllShoesByBrandAfterReleaseDate(GetAllShoesByBrandRequest request)
-        {
-            throw new NotImplementedException();
+            return GetAllByBrandsAfterReleaseDate(request);
         }
     }
 }
