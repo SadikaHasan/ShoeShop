@@ -1,5 +1,6 @@
 ﻿using ShoeStore.BL.Interfaces;
 using ShoeStore.DL.Interfaces;
+using ShoeStore.DL.Repository;
 using ShoeStore.Models.models;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,10 @@ namespace ShoeStore.BL.Services
         public BrandService(IBrandService brandRepository)
         {
             _brandRepository = (IBrandRepository?)brandRepository;
+        }
+
+        public BrandService(BrandRepository brandRepository)
+        {
         }
 
         public List<Brand> GetAllBrands()

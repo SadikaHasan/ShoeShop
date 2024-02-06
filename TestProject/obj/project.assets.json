@@ -1756,6 +1756,22 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "ShoeStore.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.9.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.9.0",
+          "ShoeStore.DL": "1.0.0",
+          "ShoeStore.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoeStore.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoeStore.BL.dll": {}
+        }
+      },
       "ShoeStore.DL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -5635,6 +5651,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "ShoeStore.BL/1.0.0": {
+      "type": "project",
+      "path": "../ShoeStore.BL/ShoeStore.BL.csproj",
+      "msbuildProject": "../ShoeStore.BL/ShoeStore.BL.csproj"
+    },
     "ShoeStore.DL/1.0.0": {
       "type": "project",
       "path": "../ShoeStore.DS/ShoeStore.DL.csproj",
@@ -5649,6 +5670,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "ShoeStore.BL >= 1.0.0",
       "ShoeStore.DL >= 1.0.0",
       "ShoeStore.Models >= 1.0.0",
       "coverlet.collector >= 6.0.0",
@@ -5688,6 +5710,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.BL\\ShoeStore.BL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.BL\\ShoeStore.BL.csproj"
+            },
             "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.DS\\ShoeStore.DL.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\ShoeShop\\ShoeShop\\ShoeStore.DS\\ShoeStore.DL.csproj"
             },

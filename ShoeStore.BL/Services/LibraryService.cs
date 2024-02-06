@@ -22,6 +22,10 @@ namespace ShoeStore.BL.Services
             _shoeService = shoeService;
         }
 
+        public LibraryService(Func<object> shoeService, Func<object> brandService)
+        {
+        }
+
         public int CheckShoeCount(int input)
         {
             if (input < 0) return 0;

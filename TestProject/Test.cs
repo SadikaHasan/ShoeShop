@@ -1,4 +1,6 @@
+using ShoeStore.BL.Services;
 using ShoeStore.DL.Interfaces;
+using ShoeStore.DL.Repository;
 using ShoeStore.Models.models;
 
 namespace TestProject
@@ -54,6 +56,7 @@ namespace TestProject
                 ReleaseDate= new DateTime(2008,02,10)
             },
         };
+        private object ShoeData;
 
         [Fact]
         public void ChectCountOfShoes_OK()
@@ -65,15 +68,17 @@ namespace TestProject
             mockedShoeRepository.SetUp(x => x.GetAllShoes())
                 .Returns(ShoeData);
 
-            var shoeService()= new ShoeService(mockedShoeRepository.Objects);
-            var brandService()= new BrandService(new BrandRepository());
-            var service()= new LibraryService(shoeService, brandService);
+                var shoeService()= new ShoeService(mockedShoeRepository.Objects);
+                var brandService()= new BrandService(new BrandRepository());
+                var service()= new LibraryService(shoeService, brandService);
 
-            var result = service.ChectCountOfShoes(input);
+                var result = service.ChectCountOfShoes(input);
 
-            Assert.Equal(expectedCount, result);
+                Assert.Equal(expectedCount, result);
         }
+
+        
     }
 
-   
+    
 }
